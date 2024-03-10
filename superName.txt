@@ -1,3 +1,5 @@
 Ganjam
 Odisha,
 Kolkata
+Goa,
+ Delhi
